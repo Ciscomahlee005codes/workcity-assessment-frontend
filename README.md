@@ -35,6 +35,6 @@ This is the **frontend** submission for the **Workcity Full-Stack & WordPress De
 ## Repository for the front End
  - ** Live Link-- https://workcity-assessment-frontend-delta.vercel.app/ ** 
  - ** Repository -- https://github.com/Ciscomahlee005codes/workcity-assessment-frontend 
- - Demo Video Link **
+ - Demo Video Link -- https://drive.google.com/file/d/1TgUvoc2gktySV1OeAfWVOLKmC53pzz51/view?usp=sharing
 
 
